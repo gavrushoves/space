@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Hurme Geometric Sans 1';
+    src: url('HurmeGeometricSans1-Light.eot');
+    src: url('HurmeGeometricSans1-Light.eot?#iefix') format('embedded-opentype'),
+        url('HurmeGeometricSans1-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Hurme Geometric Sans 1';
+    src: url('HurmeGeometricSans1-Black.eot');
+    src: url('HurmeGeometricSans1-Black.eot?#iefix') format('embedded-opentype'),
+        url('HurmeGeometricSans1-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
